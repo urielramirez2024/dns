@@ -1,0 +1,15 @@
+# Last updated: 6 July, 2018.
+# Licensed under The MIT License.
+
+# Number of Unique URLs: 558 [PORN ADS  ONLY]
+
+# [̲̅P̲̅][̲̅o̲̅][̲̅r̲̅][̲̅n̲̅][̲̅A̲̅][̲̅w̲̅][̲̅a̲̅][̲̅y̲̅]
+
+# Additional source & thanks to: Clefspeare13 (github), Sinfonietta (github).
+# This list is all of  porn ADS. Enabling it will not block porn sites but only the DOMENICO ads. 
+# There's a different host file available for verified porn sites only.
+
+127.0.0.1  localhost
+::1  localhost
+
+127.0.0.1       www.clarovideo.com
